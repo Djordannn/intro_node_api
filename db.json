@@ -6,9 +6,10 @@
       "email": "adi@gmail.com"
     },
     {
-      "id": 2,
-      "name": "Putri",
-      "email": "putri@gmail.com"
+      "id": 4,
+      "name": "Lisa",
+      "email": "lisa@gmail.com"
     }
-  ]
+  ],
+  "product": []
 }
